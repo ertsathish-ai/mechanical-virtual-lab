@@ -1,2 +1,2 @@
 # mechanical-virtual-lab
-Mechanical Engineering Virtual Laboratory
+Vel Tech Multi Tech - Mechanical Engineering Virtual Laboratory
